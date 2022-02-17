@@ -1,0 +1,78 @@
+#tippytop{
+    background-color:#7DBFE4;
+}
+.display-5{
+width: 302px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+color: #484343;
+}
+.hero{
+    height: 300px;
+    margin-bottom: 50px;
+}
+.lead, .display-5{
+    margin-left: 50px;
+    margin-top: 5%;
+    margin-right: 0%;
+}
+.lead{
+    width: 400px;
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+}
+.navbar-nav{
+    margin-right:6%;
+}
+.verbage{
+    margin-left: 50px;
+    align-self: center;
+}
+.bottomHero{
+   margin-top: 5%;
+}
+.seperator{
+    text-align: center;
+    background-color: #F3E7E7;
+    padding: 8px;
+}
+.research{
+    width: 45%;
+    margin-left:100px 
+}
+#researchBground{
+    background-color:#7DBFE4;
+}
+.researchTitle{
+    margin-left:100px;
+    padding:10px
+}
+.artifact{
+    height: 500px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.problem{
+    Margin: auto;
+    width: 30%;
+    text-align: center;
+}
+.margin{
+    margin-top: 30px;
+}
+.margin2{
+    margin-top: 100px;
+}
+.link{
+    text-align: center;
+}
+.conclusion{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
