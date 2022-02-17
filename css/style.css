@@ -37,9 +37,10 @@ line-height: 36px;
    margin-top: 5%;
 }
 .seperator{
-    text-align: center;
+    width: 100%;
     background-color: #F3E7E7;
     padding: 8px;
+    padding-left: 8%;
 }
 .research{
     width: 45%;
@@ -74,5 +75,10 @@ line-height: 36px;
 .conclusion{
     margin-left: 100px;
     margin-bottom: 50px;
+    width: 75%;
+}
+.finale{
+    width: 100%;
+    height: auto;
 }
 
