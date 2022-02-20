@@ -53,6 +53,10 @@ line-height: 36px;
     margin-left:100px;
     padding:10px
 }
+.numbers{
+    height: 200px;
+    margin-top: 50px;
+}
 .artifact{
     height: 500px;
     margin-left: 100px;
